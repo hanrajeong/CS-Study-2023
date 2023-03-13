@@ -1,2 +1,14 @@
 # Wangsimni-Study
-CS 스터디 &amp; 코딩 테스트 준비(python)
+
+## About
+---
+스터디 간단 설명 및 목표
+
+## Rules
+---
+study 규칙 작성
+
+## 스터디원
+---
+|  이름  |          GitHub          |
+| 장은영 | jangeunyeong@gmail.com   |
