@@ -9,4 +9,7 @@ study 규칙 작성
 ## 💻 스터디원
 | 이름     | GitHub |
 |:---:|:---:|
-| 장은영 | jangeunyeong081@gmail.com |
+| 박예림 | @rimrim990 |
+| 이경은 | @hamcoding9 |
+| 장은영 | @jjangeunyeong |
+| 정한라 | @hanrajeong |
