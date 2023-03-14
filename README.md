@@ -10,7 +10,7 @@
 ## 💻 스터디원
 | 이름     | GitHub |
 |:---:|:---:|
-| 박예림 | @rimrim990 |
-| 이경은 | @hamcoding9 |
-| 장은영 | @jjangeunyeong |
-| 정한라 | @hanrajeong |
+| 박예림 | [@rimrim990](https://github.com/rimrim990) |
+| 이경은 | [@hamcoding9](https://github.com/hamcoding9) |
+| 장은영 | [@jjangeunyeong](https://github.com/jjangeunyeong) |
+| 정한라 | [@hanrajeong](https://github.com/hanrajeong) |
